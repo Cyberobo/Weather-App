@@ -1,16 +1,25 @@
-# weather_app
+# 📌 Weather App
 
-A new Flutter project.
+## 🛠 Technologies Used
 
-## Getting Started
+Technologies, libraries, and tools used in this project:
 
-This project is a starting point for a Flutter application.
+- [🔹Weather Api](https://openweathermap.org/api)
+- [🔹Weather Animations](https://lottiefiles.com/vdr0uy2wwsoljqtc)
 
-A few resources to get you started if this is your first Flutter project:
+- *Libraries*
+- [Dio](https://pub.dev/packages/dio) for HTTP requests
+- [geolocator](https://pub.dev/packages/geolocator) to get position
+- [geocoding](https://pub.dev/packages/geocoding) to convert coordinates to addresses and vice versa
+- [lottie](https://pub.dev/packages/lottie) for animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📄 License
+
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Video-Downloader/blob/main/License.txt)
+
+---
+
+⭐ If you liked this project, don't forget to leave a **star**!
