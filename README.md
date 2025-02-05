@@ -15,6 +15,8 @@ Technologies, libraries, and tools used in this project:
 
 ## 📸 Screenshots
 
+<img src="https://github.com/user-attachments/assets/614cebd5-93e9-41f6-97c3-41473856fcfc" width="300">
+<img src="https://github.com/user-attachments/assets/b6def5f9-93a2-4e6a-ae91-6f6336c46509" width="300">
 
 ## 📄 License
 
