@@ -6,8 +6,6 @@ Technologies, libraries, and tools used in this project:
 
 - [🔹Weather Api](https://openweathermap.org/api)
 - [🔹Weather Animations](https://lottiefiles.com/vdr0uy2wwsoljqtc)
-
-- *Libraries*
 - [Dio](https://pub.dev/packages/dio) for HTTP requests
 - [geolocator](https://pub.dev/packages/geolocator) to get position
 - [geocoding](https://pub.dev/packages/geocoding) to convert coordinates to addresses and vice versa
